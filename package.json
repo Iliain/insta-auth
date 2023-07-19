@@ -1,0 +1,25 @@
+{
+  "name": "insta-auth",
+  "version": "1.0.0",
+  "description": "Handles server requests for the insta basic display",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/js",
+    "start": "node index.js"
+  },
+  "author": "Drew Carrette",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fs": "0.0.1-security",
+    "got": "^12.1.0",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  }
+}
