@@ -75,7 +75,7 @@ INSTA_APP_SECRET=abcdefghijklmnopqrstuvwxyz
 INSTA_REDIRECT_URI=https://localhost:3000/instagram/auth/callback
 FB_APP_ID=1234567890
 FB_APP_SECRET=abcdefghijklmnopqrstuvwxyz
-FB_REDIRECT_URI=https://localhost:3000/instagram/auth/callback
+FB_REDIRECT_URI=https://localhost:3000/facebook/auth/callback
 PORT=3000
 ```
 
